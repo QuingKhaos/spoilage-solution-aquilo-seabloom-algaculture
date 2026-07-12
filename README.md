@@ -15,6 +15,9 @@ Adds [spoilage solution](https://mods.factorio.com/mod/spoilage-solution-fork) s
 - [Spoilage Solution Tweaks][tweaks] - Opinionated tweaks to Spoilage Solution.
 - [Spoilage Solution for Wooden Aquilo: Seabloom Algaculture][aquilo-seabloom-algaculture] - Adds spoilage solution
   support to Seabloom Algaculture.
+- [Spoilage Solution for Boompuff Agriculture][boompuff-agriculture] - Adds spoilage solution support to Boompuff Agriculture.
+- [Spoilage Solution for Fluroflux: Stingfrond Agriculture][fluroflux] - Adds spoilage solution support to Fluroflux:
+  Stingfrond Agriculture.
 - [Spoilage Solution for Wooden Fulgora: Coralmium Agriculture][fulgora-coralmium-agriculture] - Adds spoilage solution
   support to Coralmium Agriculture.
 - [Spoilage Solution for pHactorio][pHactorio] - Adds spoilage solution support to pHactorio.
@@ -22,5 +25,7 @@ Adds [spoilage solution](https://mods.factorio.com/mod/spoilage-solution-fork) s
 [lib]: https://mods.factorio.com/mod/spoilage-solution-lib
 [tweaks]: https://mods.factorio.com/mod/spoilage-solution-tweaks
 [aquilo-seabloom-algaculture]: https://mods.factorio.com/mod/spoilage-solution-aquilo-seabloom-algaculture
+[boompuff-agriculture]: https://mods.factorio.com/mod/spoilage-solution-boompuff-agriculture
+[fluroflux]: https://mods.factorio.com/mod/spoilage-solution-fluroflux
 [fulgora-coralmium-agriculture]: https://mods.factorio.com/mod/spoilage-solution-fulgora-coralmium-agriculture
 [pHactorio]: https://mods.factorio.com/mod/spoilage-solution-pHactorio
