@@ -1,18 +1,18 @@
 {
   "name": "spoilage-solution-aquilo-seabloom-algaculture",
   "title": "Spoilage Solution for Wooden Aquilo: Seabloom Algaculture",
-  "description": "Adds spoilage solutions support to Seabloom Algaculture.",
+  "description": "[DEPRECATED] Functionality migrated to Spoilage Solution and More.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.77",
+    "space-age >= 2.0.77",
 
-    "aquilo-seabloom-algaculture >= 0.4.4",
-    "spoilage-solution-fork >= 1.2.0",
-    "spoilage-solution-lib >= 1.0.0",
-    "? spoilage-solution-tweaks >= 1.0.0"
+    "khaoslib >= 1.15.0",
+
+    "spoilage-solution-and-more >= 1.0.0"
   ],
   "spoiling_required": true
 }
